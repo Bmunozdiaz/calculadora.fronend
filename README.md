@@ -18,6 +18,14 @@ Abrir el repositorio publico compartido
 
 Clonar el repositorio en local
 
-Abrir visual studio Code
+Abrir visual studio Code 
+
+Cargar proyecto
+
+Ejecutar
 
 Integrantes: Ariel Alfaro Fuenzalida (NeoAriel-Code) - Bastián Muñoz Díaz (Bmunoz) - Bastian Espinoza Arancibia (Bastignacio) - Rodrigo González Campos (Skeleton997)
+
+La totalidad del proyecto que contempla el codigo de HTML, CSS y JS fue realizado es una branch grupal llamada testing-all junto a una extension de VSCode llamada Live Share para realizar el trabajo en conjunto de los cuatro integrantes y NGrok para la visualizacion en tiempo real del codigo escrito y los cambios aplicados.
+
+Link repositorio: https://github.com/Bmunozdiaz/calculadora.frontend
