@@ -21,29 +21,29 @@ $('#btn-del').on('click', function() {
 
  $(document).ready(function() {
     function sumar() {
-      let num1 = parseInt($('buttons').val());
-      let num2 = parseInt($('buttons').val());
+      let num1 = parseInt($('#num1').val());
+      let num2 = parseInt($('#num2').val());
       let resultado = num1 + num2;
       $("#resultado").val(resultado);
     }
   
     function restar() {
-      let num1 = parseInt($(".botonmanual").val());
-      let num2 = parseInt($(".botonmanual").val());
+      let num1 = parseInt($("#num1").val());
+      let num2 = parseInt($("#num2").val());
       let resultado = num1 - num2;
       $("#resultado").val(resultado);
     }
   
     function multiplicar() {
-      let num1 = parseInt($(".botonmanual").val());
-      let num2 = parseInt($(".botonmanual").val());
+      let num1 = parseInt($("#num1").val());
+      let num2 = parseInt($("#num2").val());
       let resultado = num1 * num2;
       $("#resultado").val(resultado);
     }
   
     function dividir() {
-      let num1 = parseInt($(".botonmanual").val());
-      let num2 = parseInt($(".botonmanual").val());
+      let num1 = parseInt($("#num1").val());
+      let num2 = parseInt($("#num2").val());
       let resultado = num1 / num2;
       $("#resultado").val(resultado);
     }
