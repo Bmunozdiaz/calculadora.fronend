@@ -15,5 +15,9 @@ siguiente:
 MODO DE USO:
 
 Abrir el repositorio publico compartido
+
 Clonar el repositorio en local
+
 Abrir visual studio Code
+
+Integrantes: Ariel Alfaro Fuenzalida (NeoAriel-Code) - Bastián Muñoz Díaz (Bmunoz) - Bastian Espinoza Arancibia (Bastignacio) - Rodrigo González Campos (Skeleton997)
