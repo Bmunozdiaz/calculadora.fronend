@@ -1,4 +1,4 @@
-# calculadora.fronend
+# calculadora.frontend
 
 CONTEXTO
 El desarrollo Frontend es una parte importante de las aplicaciones actuales. Utilizando librerías como
