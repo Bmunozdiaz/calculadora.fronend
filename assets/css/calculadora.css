@@ -1,0 +1,142 @@
+.titulo{
+    font-weight: bold;
+}
+
+section{font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: rgb(127, 146, 182);
+padding: 10px 0;
+max-width: 500px;
+margin: auto;
+padding-bottom: 50px;
+border-radius: 30px;
+margin-top: 2cm
+}
+
+
+.botonmanual{
+    font-family: arial;
+    font-size: 12pt;
+    background-color: white;
+    color: black;
+    border-color: black;
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+    border-width: 2px;
+
+}
+
+.botonmanual:hover{
+    font-family: arial;
+    font-size: 12pt;
+    background-color: black;
+    color: white;
+    border-color: black;
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+    border-width: 2px;
+
+}
+
+.botondel{
+    font-family: arial;
+    font-size: 12pt;
+    background-color: white;
+    color: black;
+    border-color: black;
+    border-radius: 30px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+    border-width: 2px;
+
+}
+
+.botondel:hover{
+    font-family: arial;
+    font-size: 12pt;
+    background-color: red;
+    color: white;
+    border-color: black;
+    border-radius: 30px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+    border-width: 2px;
+
+}
+
+.botoneq{
+    font-family: arial;
+    font-size: 12pt;
+    background-color: white;
+    color: black;
+    border-color: black;
+    border-radius: 30px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+    border-width: 2px;
+
+}
+
+.botoneq:hover{
+    font-family: arial;
+    font-size: 12pt;
+    background-color: rgb(11, 29, 226);
+    color: white;
+    border-color: black;
+    border-radius: 30px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+    border-width: 2px;
+
+}
+
+.form-control{
+    font-family: arial;
+    font-size: 12pt;
+    background-color: white;
+    color: black;
+    border-color: black;
+    border-radius: 30px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+    border-width: 2px;
+    text-align: right;
+}
+
+.form-control:hover{
+    font-family: arial;
+    font-size: 12pt;
+    color: white;
+    border-color: black;
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+    border-width: 2px; 
+    text-align: right;
+}
+
