@@ -3,7 +3,7 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #4A4B5F;
     padding: 10px 0;
-    max-width: 400px;
+    max-width: 450px;
     margin: auto;
     padding-bottom: 50px;
     border-radius: 30px;
@@ -126,7 +126,7 @@
 
 .form-control:focus{
     font-family: arial;
-    font-size: 12pt;
+    font-size: 18pt;
     color: rgb(0, 0, 0);
     border-color: black;
     border-radius: 30px;
